@@ -1,0 +1,327 @@
+@media screen and (max-width: 1919px){
+
+    .Desktop-Banner .Banner-Content h1{font-size: 50px;}
+
+}
+
+
+
+
+@media screen and (max-width: 1679px){
+    .Desktop-Banner .Banner-Content h1 {font-size: 46px;}
+    .fullIcon .icon ul li{padding: 0px 16px;}
+    .submit .map img {height: 100%;background-size: cover;}
+
+
+}
+
+@media screen and (max-width: 1599px){
+.header-v2 .TopBar p{margin-right: 40px;}
+.Navigation-Bar .TopMenu #menu-header-v2 li{margin-left: 3em;}
+.Navigation-Bar .TopMenu #menu-header-v2 {padding-right: 13em;}
+.Navigation-Bar .TopMenu a.btn{margin-right: 30px;}
+.Navigation-Bar .Logo{margin-left: 30px;}
+.Desktop-Banner .Banner-Content h1{font-size: 40px;}
+.Desktop-Banner .Banner-Content h2{font-size: 30px;}
+.fullIcon .icon ul li{padding: 0px ;}
+.How-it-work.Unique .ourwork{padding-left: 160px;}
+.How-it-work.Unique .ourwork{width: 30%;}
+.Partners .title h2{font-size: 40px;}
+h2{font-size: 40px!important;}
+#Services-Sec .Service-Same:nth-child(2) .For-Image img{max-width: 560px;}
+.AboutAtollogy .leftSec p{margin-top: 0px;}
+.How-it-work .ourwork .icon img{max-width: 200px;}
+.fullIcon .icon ul li img {max-width: 135px !important;}
+
+}
+
+@media screen and (max-width: 1439px){
+.Desktop-Banner .Banner-Content{width: 100%;}
+.Desktop-Banner .Banner-Content h1{font-size: 50px!important;}
+.Desktop-Banner .Banner-Content h2 {font-size: 30px;font-weight: 600 !important;}
+.Desktop-Banner .Banner-Content a.btn{padding: 18px 44px;font-size: 20px;font-weight: 800;}
+.fullIcon .icon ul li{padding: 0px 12px;}
+.fullIcon .icon ul li img{max-width: 140px;}
+
+
+}
+
+@media screen and (max-width: 1365px){
+
+}
+
+@media screen and (max-width: 1279px){
+.Navigation-Bar .TopMenu #menu-header-v2 li{margin-left: 2em}
+.Navigation-Bar .TopMenu #menu-header-v2{padding-right: 11em;}
+.Navigation-Bar .TopMenu a.btn {margin-right: 18px;}
+#Second-Sec .Manufacturing .Manufacturing-Half{padding-right: 20px;}
+#Second-Sec .Manufacturing .Manufacturing-Half p{font-size: 16px;}
+#Second-Sec .Manufacturing{padding: 60px 100px;}
+.Navigation-Bar{display: none;}
+.home .mobile-menu{top: 47px; background: transparent;}
+.home .mobile-menu .lines::before{color: #ffffff;}
+.home .mobile-menu .menu li a{color: #fff !important; border-bottom: 1px solid #eee;}
+.home .mobile-menu .menu li:last-child a{border-bottom: none;}
+.home .mobile-menu li a:hover{background-color: #538ecb!important;}
+.home .mobile-menu .menu li{margin: 0px;}
+#Services-Sec .Service-Same .For-Image img{max-width: 100%;}
+#Services-Sec .Service-Same:nth-child(2) .For-Image img{max-width: 100%;}
+.AboutAtollogy .leftSec p{padding-left: 70px;}
+.Operational .title h2 br{ display: none; }
+.Operational .imagereel h3{font-size: 24px; padding-left: 80px;}
+.How-it-work.Unique .ourwork{padding-left: 70px;}
+.fullIcon .icon ul li img {max-width: 110px;}
+.How-it-work.Unique .ourwork h3{font-size: 20px; top: 0px;}
+.Partners .icon ul li img{max-width: 110px}
+.submit .Contact-form{width: 100%;float: left;}
+.Desktop-Banner .Banner-Content h1{font-size: 46px !important;}
+.submit .map{width: 100%;}
+
+.submit .map img{/*! max-width: none; */}
+.submit{height: auto;}
+.How-it-work .ourwork p{padding: 0px 20px;}
+.How-it-work .ourwork .icon img{max-width: 150px!important;}
+#Services-Sec{margin-top: 0px;}
+#Services-Sec .Service-Same .ForContent h6{padding: 0;}
+.AboutAtollogy{margin-top: 70px; padding-top: 80px;}
+.videoSection{margin-top: 40px; height: 520px;}
+.AboutAtollogy .rightSide .leaenmore .btn{padding: 20px 35px;}
+.Operational{padding: 40px 0px;}
+.How-it-work.Unique .ourwork .icon img{max-width: 65px !important;}
+.How-it-work.Unique .ourwork h3 {font-size: 16px;}
+#cf7md-form.cf7md-form h2{padding-top: 40px;}
+#bars {display: block !important; display: block !important;width: 30px;cursor: pointer;overflow: hidden;float: right;margin-top: 15px;margin-right: 30px;}
+#bars .bar {float: left;width: 100%;height: 2px;background: #fff;    margin: 2.5px 0;border-radius: 10px; }
+.home .mobile-menu .lines{display: none!important;}
+.mobile-menu.mobile-menu-show img {max-width: 178px;float: left;margin-left: 20px;}
+.submit .map iframe{height: 500px;}
+.fullIcon .icon ul li img {max-width: 100px !important;}
+.Operational .imagereel video {margin-top: -120px;margin-bottom: -60px;}
+.Operational .title p::after{transform: translateX(-78%);}
+
+}
+
+
+@media screen and (max-width: 1023px){
+
+
+.How-it-work .ourwork p {padding: 0px 200px;}
+.How-it-work .ourwork h3{margin: 10px 0px; }
+.How-it-work .ourwork p{margin: 0;}
+.How-it-work .ourwork .icon img {max-width: 190px !important;}
+.How-it-work.Unique .ourwork h3 br{display: none;}
+.How-it-work.Unique .ourwork{padding: 0px!important;}
+.How-it-work.Unique .ourwork h3 {font-size: 25px;padding: 0;left: 40px;margin-bottom: 40px;top: 5px;}
+.How-it-work.Unique .ourwork {padding-left: 184px;}
+.How-it-work.Unique .ourwork .icon {position: static;left: 130px;}
+.How-it-work.Unique .ourwork p{padding: 6px 0px;position: relative;line-height: 1.6em;}
+.How-it-work.Unique .control {max-width: 423px; margin: 0 auto; width: 100%;}
+
+.Operational .imagereel{margin-top: 50px;}
+.Operational .imagereel h3 {padding-left: 50px!important;}
+.submit .map img{height: 100%!important;}
+.fullIcon .icon ul li img,.Partners .icon ul li img{max-width: 200px!important; margin: 0 auto;}
+#slick-slide-control02{display: none;}
+
+
+
+
+.Desktop-Banner .Banner-Content h1{font-size: 38px !important}
+.Desktop-Banner .Banner-Content h2{font-size: 30px !important;font-weight: 600 !important;}
+#Second-Sec .Manufacturing{padding: 60px 50px;}
+#Services-Sec,#Services-Sec .Service-Same,.AboutAtollogy{margin-top: 0px;}
+#Services-Sec .Service-Same .ForContent span::before{display: none;}
+.How-it-work .title p,.Operational .title p,.Partners .title p{padding: 0px 50px;}
+.How-it-work .title p br,.Operational .title p br,.Partners .title p br{display: none;}
+.How-it-work .ourwork{width: 100%;}
+.Operational .imagereel h3{padding-left: 70px;}
+.Operational .title h2{font-size: 30px !important;}
+.fullIcon .icon ul li{padding: 0px 4px;}
+.fullIcon .icon ul li img {max-width: 80px;}
+.footer-mnu .sec:first-child{padding-left: 0px;}
+.footer-mnu .sec{width: 100%;float: left;padding-left: 30px}
+.footer-mnu .sec .chw-widget h2{margin-top: 30px;}
+.How-it-work.Unique .ourwork{width: 100%;}
+.Partners .icon ul li img{max-width: 80px;}
+.AboutAtollogy .leftSec p{padding-left: 35px;padding-right: 30px;font-size: 17px;line-height: 1.8em;}
+.AboutAtollogy .rightSide .leaenmore{margin-top: 40px;}
+.AboutAtollogy .rightSide .leaenmore .btn {padding: 20px 22px;font-size: 14px;}
+
+
+.fullIcon .icon{display: none!important;}
+.fullIcon .icon.logoSlider{display: block!important;}
+
+.Partners .icon.pat{display: none;}
+.Partners .icon.logoSlider{display: block!important; margin-top: 70px;}
+.Partners .icon.logoSlider ul li{display: flex!important; min-height: 100px; align-items: center;}
+.slick-initialized.slick-slider{padding-left: 0px!important;}
+.Atollogy-Partnership {margin-top: 80px;}
+
+.fullIcon .icon ul li {padding: 0px 4px; padding-top: 0px; padding-bottom: 0px;padding-bottom: 10px;padding-top: 4px;}
+.fullIcon .icon ul li img{max-width: 120px!important;}
+.fullIcon{padding-bottom: 20px!important; padding-top: 0px!important;}
+
+.Operational .imagereel video {margin-top: -150px;margin-bottom: -90px;}
+.Operational .imagereel h3{padding-right: 50px !important;}
+.Operational .title p::after {
+    transform: translateX(-118%);
+}
+
+}
+
+@media screen and (max-width: 767px){
+.Operational .title p::after {
+    transform: translateX(-60%);
+}
+
+
+}
+
+@media screen and (max-width: 735px){
+.AboutAtollogy{padding-top: 50px;}
+.AboutAtollogy .flip {display: flex;flex-direction: column-reverse;}
+.AboutAtollogy .rightSide .leaenmore .btn{display: none;}
+.leaenmore.hide{display: block!important; margin-top: 40px;}
+
+.AboutAtollogy .rightSide .leaenmore{margin: 0px!important;}
+.AboutAtollogy .rightSide .leaenmore{margin-bottom: 40px;}
+#Services-Sec .Service-Same .For-Image{display: none;}
+#Services-Sec .Service-Same{width: 100%!important; float: left!important; text-align: center!important;}
+#Services-Sec .Service-Same .For-Image, #Services-Sec .Service-Same .ForContent{width: 100%; float: left; text-align: center;}
+#Services-Sec .Service-Same .ForContent:nth-child(2){margin-right: 0px;}
+.AboutAtollogy .leftSec,.AboutAtollogy .rightSide{width: 100%; }
+.AboutAtollogy .rightSide{text-align: center;}
+.AboutAtollogy .leftSec p{text-align: center;}
+.How-it-work.Unique .ourwork .icon{left: 88px;}
+.How-it-work .ourwork p{padding: 0px 150px;}
+#Services-Sec .Service-Same:nth-child(1){padding-top: 30px!important;}
+#Services-Sec .Service-Same .ForContent{padding-top: 0px;}
+#Second-Sec .Manufacturing{padding: 40px 50px;}
+.AboutAtollogy .leftSec p{text-align: center; font-size: 17px;padding-right: 40px; padding-left: 40px; line-height: 1.8em;}
+.How-it-work .title p, .Operational .title p, .Partners .title p{font-size: 17px; line-height: 1.8em;}
+.How-it-work.Unique{padding: 50px 0px;}
+.Operational .title h2 br{display: block;}
+.Operational .title h2{letter-spacing: normal;}
+#Services-Sec .Service-Same:nth-child(1) {padding-top: 50px !important;}
+.AboutAtollogy .rightSide h2 br{display: none;}
+.AboutAtollogy .rightSide h2{font-size: 50px!important;}
+#Second-Sec .Manufacturing{margin-top: 0px;}
+.Desktop-Banner .Banner-Content{margin-top: 80px;}
+.Desktop-Banner .Banner-Content h1{font-size: 30px !important;letter-spacing: normal;}
+.Desktop-Banner .Banner-Content h2 {font-size: 20px !important;letter-spacing: normal;margin-bottom: 40px;margin-top: 20px;}
+.videoSection,.videoSection video,.videoSection::before,{height: 440px;}
+.videoSection h4.gradient::before{width: 70px;height: 70px;}
+.Desktop-Banner{background-size: cover;}
+.home .mobile-menu.mobile-menu-show img{max-width: 120px;}
+.Desktop-Banner .Banner-Content {margin-top: 30px;}
+.Desktop-Banner .Banner-Content a.btn{padding: 13px 35px;font-size: 14px;font-weight: 700;}
+#bars{margin-top: 5px;}
+#Second-Sec .Manufacturing h2,.AboutAtollogy .rightSide h2,.How-it-work .title h2,.Operational .title h2,.How-it-work.Unique .title h2,.Partners .title h2,#cf7md-form.cf7md-form h2{font-size: 35px!important;}
+#Second-Sec .Manufacturing h2::before{top: 50px;}
+#Services-Sec .Service-Same .ForContent h2{font-size: 30px !important;margin-bottom: 10px;}
+#Services-Sec .Service-Same .ForContent p{margin-top: 12px; margin-bottom: 10px;}
+.Partners{padding-top: 20px;}
+.header-v2 .TopBar{display: none;}
+.home .mobile-menu{top: 0;}
+.AboutAtollogy .rightSide .leaenmore .btn{padding: 13px 35px;font-size: 14px;font-weight: 700;}
+.btn{padding: 13px 35px;font-size: 14px;font-weight: 700;}
+.Operational .title p::after {
+    transform: translateX(-128%);
+    width: 370px;
+}
+
+}
+
+@media screen and (max-width: 666px){
+
+.How-it-work.Unique .ourwork .icon{left: 68px;}
+.cf7md-form .col-6{width: 100%!important;}
+.videoSection h4.gradient{display: none;}
+.fullIcon .icon ul li img{max-width: 150px!important;}
+.Operational .title p::after {
+    transform: translateX(-63%);
+    width: 370px;
+}
+
+}
+
+
+@media screen and (max-width: 639px){
+#cf7md-form{padding: 33px 30px;}
+#Second-Sec .Manufacturing h2::before{top: 120px;}
+.Operational .imagereel h3{font-size: 20px; padding-left: 40px; }
+.fullIcon .icon ul li img{max-width: 56px;}
+.How-it-work.Unique .ourwork{padding-left: 40px;}
+.Partners .icon .Atollogy-Partnership .btn{padding: 15px 59px; font-size: 12px;}
+.Partners .icon ul li{padding: 0px 4px;}
+.Desktop-Banner .Banner-Content h1{font-size: 38px !important;}
+.Desktop-Banner .Banner-Content{margin-top: 40px;}
+#Second-Sec .Manufacturing h2, .AboutAtollogy .rightSide h2, .How-it-work .title h2, .Operational .title h2, .How-it-work.Unique .title h2, .Partners .title h2, #cf7md-form.cf7md-form h2{font-size: 28px!important;}
+#Second-Sec .Manufacturing h2::before{top: 42px;}
+#Second-Sec .Manufacturing .Manufacturing-Half{width: 100%;}
+.How-it-work .ourwork p{padding: 0px 30px;}
+.Operational .imagereel h3{padding-left: 30px; font-size: 16px; padding-right: 30px; text-align: center;}
+.How-it-work.Unique .control{max-width: 273px;}
+#slick-slide-control12,#slick-slide-control22,#slick-slide-control03{display: none;}
+.fullIcon .icon ul li img{max-width: 200px;}
+
+.Operational .imagereel video {margin-top: -150px;margin-bottom: -150px;}
+.Operational .title p::after {
+    transform: translateX(-83%);
+    width: 370px;
+}
+
+
+}
+
+
+@media screen and (max-width: 479px){
+#slick-slide-control04,#slick-slide-control05,#slick-slide-control06,#slick-slide-control13,#slick-slide-control14,#slick-slide-control15{display: none;}
+#slick-slide-control23,#slick-slide-control24,#slick-slide-control25{display: none;}
+.Desktop-Banner .Banner-Content h2{font-size: 23px !important; letter-spacing: -1px;}
+.AboutAtollogy .leftSec p{padding-left: 20px; padding-right: 20px;}
+.Operational .title h2{font-size: 26px !important;}
+.How-it-work .title p, .Operational .title p, .Partners .title p{padding: 0px 20px;}
+.Partners .icon ul li img{max-width: 50px}
+.Partners .icon .Atollogy-Partnership .btn{padding: 15px 34px;}
+.How-it-work.Unique .ourwork p{padding-right: 30px;}
+#Second-Sec .Manufacturing h2::before{top: 50px;}
+.AboutAtollogy{padding-top: 60px;}
+.Desktop-Banner .Banner-Content h1{font-size: 35px !important;}
+.Desktop-Banner .Banner-Content h2{font-size: 20px !important;}
+.videoSection h4.gradient::before{width: 60px;height: 60px;margin-bottom: 20px; }
+
+.videoSection video{height: 70vh;}
+.videoSection{height: 100%;}
+.videoSection::before{height: 99.5%}
+.How-it-work.Unique .ourwork .icon{left: 68px;}
+.How-it-work.Unique .ourwork h3{font-size: 20px; left: 65px;}
+.How-it-work.Unique .ourwork .icon img{max-width: 60px !important;}
+.home .mobile-menu ul{margin-top: 20px;}
+.How-it-work.Unique .ourwork p{left: 30px;}
+#Second-Sec .Manufacturing{padding: 40px 30px;}
+#Second-Sec .Manufacturing h2{padding-right: 30px; margin-top: 0px;}
+#Services-Sec .Service-Same .ForContent{padding-right: 30px!important; padding-left: 30px!important;}
+.AboutAtollogy .leftSec p{padding-left: 30px;
+padding-right: 30px;}
+.How-it-work .title p,.Operational .title p,.Partners .title p{padding: 0px 30px;}
+.fullIcon{padding: 9px 0px;}
+.Partners .icon.logoSlider ul li{min-height: auto;}
+.fullIcon .icon ul li img {max-width: 230px !important;}
+.Operational .title p::after {
+    transform: translateX(-73%);
+    width: 350px;
+}
+
+        
+}
+
+
+@media screen and (max-width: 413px){
+
+}
+
+
+@media screen and (max-width: 359px){
+
+}

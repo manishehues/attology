@@ -1,0 +1,196 @@
+
+<div class="subpageSectionOne">
+<div class="subpageSectionOneInside">
+<h2 class="Oswald">The Hard Facts</h2>
+
+
+
+<p class="subText">Research shows that the yards with the most efficient operations are efficient because of a variety of factors, especially those about how people interact with the machines and equipment, and the flow of operational steps. Most yards can’t automatically capture data around these interactions and flow with the automated analytics to determine its states to tell a complete story or lead to productivity improvement.</p>
+
+
+
+<div class="productsTable">
+  <div class="productsCol1 productsCell">
+    
+      <h2>The Problem</h2>
+<p>The current manual processes of tracking truck activity, times and weights are slow, incomplete, and unreliable. GPS systems are unable to precisely track vehicles within a facility and cannot produce granular data on yard entry and exit, weigh stations, or loading/unloading docks.</p>
+<p>Frequently, managers cannot figure out which truck is in the yard and at what location. In fact, they don’t have accurate or up to date data captured to tell their customers whether their trucks are stuck in their yard for loading or if they’re even in the yard at all.</p>
+<p>Further, managers have no true visibility into how long a truck is taking in each of the loading and unloading zones nor, can they identify opportunities to reduce cycle time.</p>
+
+    
+  </div>  
+  <div class="productsCol2">
+    <div class="productsCell">
+
+        <div class="detail">
+          <div class="productsCol_left">
+            <h2>The Solution</h2>
+<p>Automate your entire yard operation with real time, digital feedback, gathered automatically and displayed simultaneously.</p>
+<p>This visual stream of data is actionable intelligence delivered to your operational team in the same moment it’s captured allowing them to immediately intervene and resolve issues on the spot.</p>
+<p>Actionable intelligence = increased productivity!</p>
+          </div>
+          
+        </div>
+      
+    </div>
+    <div class="productsCell">
+        <div class="detail">
+      <div class="fullWidthBadge">
+          <img src="<?php echo get_template_directory_uri(); ?>/images/products/productsBadge1.png" >
+        </div>  
+          
+        </div>
+      
+    </div>
+  </div>  
+</div>
+
+<h2 class="Oswald">A (Much) Better Way</h2>
+<p class="productsP">Atollogy was founded to give everyone real-time reporting on critical activities and events in their yards. With Atollogy, decision makers are fed actionable intelligence in real time, enabling them to take immediate action to correct an operational issue and get back to full productivity.</p>
+
+
+
+
+</div>
+
+</div>
+
+
+
+<div class="subpageSectionOne gray">
+<div class="subpageSectionOneInside">
+
+<h2 class="Oswald">HOW ATOLLOGY WORKS:</h2>
+
+<!-- <img class="bigIcon1" src="<?php echo get_template_directory_uri(); ?>/images/industries/BigIcon1.svg"> -->
+
+
+<div class="subpageTable">
+<img src="<?php echo get_template_directory_uri(); ?>/images/industries/BigIcon2.svg">
+<br><br>
+<div class="subpageCell">
+<h3>1 <span>Instrument</span></h3>
+Non-invasive sensors and Atollogy Outriggers are rapidly installed. No retrofit necessary and it’s adaptable to any vintage machine.
+</div>
+<div class="subpageCell">
+<h3>2 <span>Analyze</span></h3>
+
+Atollogy captures the data to our cloud, feeds the artificial intelligence pipeline, and translates your physical operations into analytical data.
+</div>
+<div class="subpageCell">
+<h3>3 <span>Action</span></h3>
+
+Atollogy delivers real time feedback of actionable intelligence to understand and act upon.
+</div>
+<div class="clear"></div>
+</div>
+
+</div>
+</div>
+
+<div class="subpageSectionOne">
+<div class="subpageSectionOneInside">
+
+<h2 class="Oswald">YARD OPERATION SOLUTION</h2>
+<p class="productsPblueBig" style="font-size:18px;">Atollogy’s Yard Operations Solution gives you the full picture - by measuring both machines and equipment (utilization) & people (efficiency), true productivity is captured for the first time.</p>
+
+<h3>Atollogy can deliver:</h3>
+
+<div class="tableP">
+<div class="cellP">
+<ul>
+	<li>Average truck cycle time inside facility</li>
+	<li>Truck entrance and exit times including truck identification</li>
+	<li>Actual visit time stamps sharable with your customers.</li>
+</ul>
+</div>
+<div class="cellP">
+<ul>
+<li>Duration trucks wait to be unloaded after arrival</li>
+<li>Duration a loading dock was inactive while trucks were waiting in the yard</li>
+<li>Actual weights of truck loads and real time alters when trucks are overloaded</li>
+</ul>
+</div>
+</div>
+
+
+</div>
+</div><div class="subpageSectionOne gray">
+<div class="subpageSectionOneInside">
+<!-- <div class="tableP">
+<div class="cellP">
+<h2 class="Oswald">VEHICLE MONITORING:</h2>
+
+</div>
+<div class="cellP">
+<p class="productsPblueBig">Cycle Times, Weights & Trips/Day</p>
+Composite Analytics generated by these measurements give supervisors and operators a view of current operational status driving real time actions and responses.
+</div>
+</div> -->
+<!-- <br>
+<br>
+
+<p class="productsPblueBig">Atollogy’s Yard Operations Solution gives you the full picture - by measuring both machines and equipment (utilization) & people (efficiency), true productivity is captured for the first time.</p>
+<br>
+<br>
+
+<h3>Atollogy can deliver:</h3>
+<br>
+
+<div class="tableP">
+<div class="cellP">
+<ul>
+	<li>Average truck cycle time inside facility</li>
+	<li>Truck entrance and exit times including truck identification</li>
+	<li>Actual visit time stamps sharable with your customers.</li>
+</ul>
+</div>
+<div class="cellP">
+<ul>
+<li>Duration trucks wait to be unloaded after arrival</li>
+<li>Duration a loading dock was inactive while trucks were waiting in the yard</li>
+<li>Actual weights of truck loads and real time alters when trucks are overloaded</li>
+</ul>
+</div>
+</div>
+<br>
+<br> -->
+
+<img src="<?php echo get_template_directory_uri(); ?>/images/products/productsBottomImage1.jpg">
+<br>
+<br>
+
+</div>
+
+<div class="subpageSectionOne">
+<div class="subpageSectionOneInside">
+
+<h2 class="Oswald">GET STARTED WITHOUT DOWNTIME:</h2>
+
+<!-- <img class="bigIcon1" src="<?php echo get_template_directory_uri(); ?>/images/industries/BigIcon1.svg"> -->
+<p class="productsP">Atollogy’s sensor devices can be installed in minutes without the need for IT support, changes to existing processes, or downtime. Based on a few simple questions, we’ll begin learning about your operations and concentrate on your known weaknesses. As soon as the first week, you’ll be seeing new operational insights.</p>
+
+<ul style="margin:50px 0;">
+<li>The sensors watch and learn how to visually identify movement in the yard</li>
+<li>Computer vision tracks movement of vehicles in and out of the yard</li>
+<li>Sensors monitor equipment status without costly hardware or interfaces</li>
+<li>Outriggers connect automatically to manufacturing cloud to feed AI processes</li>
+<li>Actionable insights are delivered via situational composite analytics
+</ul>
+
+<div class="productsTryItNow">
+<div class="tableP">
+<div class="cellP leftP">
+<img src="<?php echo get_template_directory_uri(); ?>/images/products/productsBadgeBottom1.png" >
+</div>
+<div class="cellP rightP">
+<a href="<?php echo home_url(); ?>/#contact"><h2 class="Oswald">TRY IT NOW</h2></a>
+<p>Empower your team to make real-time, informed decisions that decrease cycle time and increase margins without retrofit, disruptions to yard operations, or the need for expensive new machinery or IT infrastructure. Atollogy’s Yard Operations Solution democratizes enterprise-level IIoT and AI technologies to deliver true, “always on” visibility into operations with rapid time-to-value.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+</div>
